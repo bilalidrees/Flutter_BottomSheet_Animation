@@ -1,0 +1,4 @@
+io/flutter/plugins/GeneratedPluginRegistrant.java
+ io.flutter.plugins.GeneratedPluginRegistrant
+com/example/liquid_navigation/BuildConfig.java
+ com.example.liquid_navigation.BuildConfig

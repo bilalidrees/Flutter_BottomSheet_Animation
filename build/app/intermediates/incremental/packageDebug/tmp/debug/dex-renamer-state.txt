@@ -1,0 +1,4 @@
+#Thu Jan 06 15:33:18 PKT 2022
+base.0=C\:\\Users\\vectracom dev\\Documents\\bilal\\LiquidBottomSheet-Navigation-main\\build\\app\\intermediates\\dex\\debug\\mergeDexDebug\\classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
